@@ -1,0 +1,8 @@
++ init.supersu.rc
++ sbin/fbe_bypass.sh
++ sbin/launch_daemonsu.sh
+* fstab.sawshark 0000_fstab.sawshark
+* init.rc 0001_init.rc
+* plat_property_contexts 0002_plat_property_contexts
+* sepolicy 0003_sepolicy
+- verity_key 0004_verity_key
